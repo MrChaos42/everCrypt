@@ -14,21 +14,6 @@
 5. Token Economics
    5.1 $ECC (everCrypt Coin)
    5.2 $ECT (everCrypt Token)
-
-## Table of Contents
-
-1. Executive Summary
-2. Introduction
-   2.1 Background
-   2.2 Vision and Mission
-3. Problem Statement
-4. The everCrypt DAO Solution
-   4.1 Overview
-   4.2 Key Components
-   4.3 Technical Architecture
-5. Token Economics
-   5.1 $ECC (everCrypt Coin)
-   5.2 $ECT (everCrypt Token)
 6. Governance
    6.1 DAO Structure
    6.2 AI-Assisted Governance
