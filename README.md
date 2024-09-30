@@ -41,9 +41,9 @@
    7.5 Yield Strategy Optimization
 8. Roadmap
 9. Team and Advisors
-10. Token Sale
-11. Risks and Mitigations
-12. Conclusion
+11. Token Sale
+12. Risks and Mitigations
+13. Conclusion
 
 ## 1. Executive Summary
 
@@ -257,11 +257,11 @@ everCrypt DAO introduces a comprehensive DeFi protocol that addresses the aforem
 
 ## 9. Team and Advisors
 
-[Include brief bios of key team members and advisors, highlighting relevant experience in blockchain, AI, economics, and DeFi]
+Author : Abhiroop Sharma
 
 ## 10. Token Sale
 
-[Details about the initial token sale, including dates, pricing, vesting schedules, and use of funds]
+TBD
 
 ## 11. Risks and Mitigations
 
