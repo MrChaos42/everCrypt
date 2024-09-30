@@ -1,4 +1,4 @@
-# everCrypt DAO: Inflation-Pegged Token and AI-Enhanced Universal Basic Income Protocol
+# everCrypt DAO: Basic Income Market Maker
 
 ## Table of Contents
 
