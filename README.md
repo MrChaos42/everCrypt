@@ -13,7 +13,7 @@
    4.3 Technical Architecture
 5. Token Economics
    5.1 $ECC (everCrypt Coin)
-   5.2 $ECT# everCrypt DAO: Inflation-Pegged Token and AI-Enhanced Universal Basic Income Protocol
+   5.2 $ECT (everCrypt Token)
 
 ## Table of Contents
 
