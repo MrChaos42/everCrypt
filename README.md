@@ -1,5 +1,7 @@
 # everCrypt DAO: Basic Income Market Maker
 
+## AI-driven blockchain ecosystem for stable, universal prosperity
+
 ## Table of Contents
 
 1. Executive Summary
